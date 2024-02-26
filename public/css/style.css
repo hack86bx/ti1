@@ -1,0 +1,169 @@
+
+
+body{
+    width: 1280px;
+}
+
+#fond1{
+    width: 1200px;     
+    height: 500px;        
+    display: block;
+    margin-left: 16%;
+    margin-right: 20%;
+    position: absolute;
+    z-index: 1;
+    margin-left: 297px;
+   
+}
+h1{
+   
+  width: 150px;
+  text-align: center;
+  margin-left: 800px;
+  border: 1px solid black;
+  border-radius: 27px;
+  background-color: lightgrey;
+  z-index: 2;
+  
+  
+  
+   
+
+}
+nav{
+    text-align: center;
+    border: 2px solid black;
+    width: 1196px;
+    position: absolute;
+    margin-top: 500px;
+    color: black;
+    background-color: grey;
+    height: 20px;
+    margin-left: 297px;
+    text-decoration: none;
+    border-radius: 5px ;
+    
+    
+}
+a{
+    margin-left: 100px;
+    text-decoration: none;
+    color: #A90331;
+   
+}
+h2{
+    margin-top: 550px;
+    text-align: center;
+    border: 2px solid black;
+    color: black;
+    background-color: red;
+    width: 1196px;
+    margin-left: 297px;
+    border-radius: 2px 0px 0px 0px;
+}
+#armoiries{  
+    height: 300px;
+    margin-left: 400px;
+
+}
+p{
+    text-align: center;
+    ;
+}
+#wiki{
+    text-align: center;
+    margin-left: 460px;
+}
+#block1{
+    border: 1px solid black;
+    align-items: center;
+    margin-left: 297px;
+    width: 1200px;
+    background-color: grey;
+
+}
+
+#block2{
+    border: 1px solid black;
+    align-items: center;
+    margin-left: 297px;
+    width: 1200px;
+    background-color: pink;
+    text-align: center;
+    height: 500px;
+}
+
+#submit{
+    border-radius: 28px;
+}
+.form{
+    text-align: center;
+}
+#block3{
+    border: 1px solid black;
+    align-items: center;
+    margin-left: 297px;
+    width: 1200px;
+    background-color: pink;
+    
+    height: 100%;   
+    line-height: 30px;
+    text-align: justify;
+}
+#cult{
+    height: 400px;
+    margin-left: 300px;
+}
+#block4{
+    border: 1px solid black;
+    align-items: center;
+    margin-left: 297px;
+    width: 1200px;
+    background-color: pink;
+    align-items: center;
+    height: 100%;   
+    line-height: 30px;
+    text-align: center;
+}
+.gal {
+    width: 500px;
+    height: 480px;
+}
+#block5{
+    border: 1px solid black;
+    align-items: center;
+    margin-left: 297px;
+    width: 1200px;
+    background-color: pink;
+    
+    height: 100%;   
+    line-height: 100%;
+    text-align: center;
+}
+
+#block6{
+    border: 1px solid black;
+    align-items: center;
+    margin-left: 297px;
+    width: 1200px;
+    background-color: pink;
+    
+    height: 100%;   
+    line-height: 30px;
+    
+}
+#li1{
+    margin-left: 300px;
+}
+#d1 {
+    columns: 3;
+    margin-left: 140px
+}
+#d2 {
+    columns: 3;
+    margin-left: 140px
+}
+#d3 {
+    columns: 3;
+    margin-left: 140px
+}
